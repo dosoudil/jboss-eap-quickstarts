@@ -237,7 +237,7 @@
             <modules>
                 <module>cluster-ha-singleton</module>
                 <module>inter-app</module>                
-                <module>jax-rs-client</module>
+                <!--<module>jax-rs-client</module>-->
                 <module>jts</module>
                 <module>servlet-security-genericheader-auth</module>
             </modules>
